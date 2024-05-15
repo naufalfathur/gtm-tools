@@ -100,7 +100,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
           <a href="https://marketlytics.com/analytics-faq/adding-google-tag-manager-to-blogger-blog/#:~:text=Add%20GTM%20container%20codes%20to,template%20and%20click%20edit%20HTML.&text=Now%2C%20GTM%20will%20give%20you,other%20in%20the%20body%20section." className="text-xs text-blue-500">source</a>
           <p className="text-xs text-slate-500">{message}</p>
         </div>
-        <a href="mailto:nwahid@google.com" className="text-xs text-slate-400/50 font-bold text-center">bugged? please contact @nwahid</a>
+        <a href="/" className="text-xs text-slate-400/50 font-bold text-center">bugged? please contact @nwahid</a>
       </div>
     </main >
   );
